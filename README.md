@@ -3,7 +3,7 @@
 ## Repository guidelines
 Edit the readme file as you change or add new code
 
-## Dataset
+## Dataset Zip File
 
 The dataset we are using is shapenet. The dataset can be accessed using the following link
 
